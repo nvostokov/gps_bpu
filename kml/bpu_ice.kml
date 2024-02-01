@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			bpu_ice
+		</name>
+		<Placemark>
+			<name>
+				Х* Пер. р. Пинега (Паленьга)
+			</name>
+			<description>
+				Летом паром, зимой ледовая переправа бесплатная, 1.54 км от Верхняя Паленьга
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddff0000
+					</color>
+					<width>
+						50.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					42.2962761886,64.1630918454,0 42.2982932097,64.1618667734,0 42.3011256225,64.1604265431,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
+
