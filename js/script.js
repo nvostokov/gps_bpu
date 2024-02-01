@@ -556,7 +556,7 @@ var customLayer3 = L.geoJson(null, {
       }
       });
 // this can be any kind of omnivore layer
-omnivore.kml('kml/bpu_pod.kml', null, customLayer3).addTo(map);
+omnivore.kml('kml/bpu_ice.kml', null, customLayer3).addTo(map);
 
 
 //
@@ -572,7 +572,7 @@ var customLayer4 = L.geoJson(null, {
       }
       });
 // this can be any kind of omnivore layer
-omnivore.kml('kml/3arh.kml', null, customLayer4).addTo(map);
+omnivore.kml('kml/pod.kml', null, customLayer4).addTo(map);
 
 
 //
