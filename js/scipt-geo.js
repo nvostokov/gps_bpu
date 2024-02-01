@@ -21,14 +21,14 @@ alert(windowHeight) */
 
 
 if (windowWidth > 2600) {
-  scaleMap = 11
+  scaleMap = 12
 }
 else if (windowWidth < 2000 ) {
-  scaleMap = 9
+  scaleMap = 10
 }
 else
 {
-  scaleMap = 10
+  scaleMap = 11
 }
 
 
