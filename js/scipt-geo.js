@@ -24,7 +24,7 @@ if (windowWidth > 2600) {
   scaleMap = 11
 }
 else if (windowWidth < 2000 ) {
-  scaleMap = 10
+  scaleMap = 9
 }
 else
 {
