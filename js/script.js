@@ -572,7 +572,7 @@ var customLayer4 = L.geoJson(null, {
       }
       });
 // this can be any kind of omnivore layer
-omnivore.kml('kml/pod.kml', null, customLayer4).addTo(map);
+omnivore.kml('kml/bpu_pod.kml', null, customLayer4).addTo(map);
 
 
 //
@@ -626,10 +626,10 @@ $(".check").change(function() {
     case "arh2":
       toggleLayer(this.checked, customLayer2);
       break;
-    case "arh3":
+    case "arh4":
       toggleLayer(this.checked, customLayer3);
       break;
-    case "arh4":
+    case "arh3":
       toggleLayer(this.checked, customLayer4);
       break;
     case "arh5":
