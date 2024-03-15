@@ -67,7 +67,10 @@
 // Token that will be used for auth
 // For more info about how to generate token check
 // http://sdk.wialon.com/playground/demo/app_auth_token
-var TOKEN = '1bd522b7c5adcdf019649426b60cfc64B7545E496E3117C4AC0284EC038E81A4F4BB8132';
+var TOKEN = '4dd8651907a4f0899b5ebbc7b4ce5de0155E6936515C52D5568CBAB68A8D2373E9174787';
+
+//1bd522b7c5adcdf019649426b60cfc64B7545E496E3117C4AC0284EC038E81A4F4BB8132
+
 
 // global variables
 var map, marker, markerByUnit = {},
